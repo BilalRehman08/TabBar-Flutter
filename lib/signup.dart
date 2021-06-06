@@ -10,6 +10,6 @@ class Sin extends StatefulWidget {
 class _SinState extends State<Sin> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(body: Center(child: Text("SignUp")));
+    return Scaffold(body: Center(child: Text("Register")));
   }
 }
